@@ -1,0 +1,2 @@
+django-admin startproject CSE_BU_WEB_APP
+python manage.py runserver
