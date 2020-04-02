@@ -1,0 +1,163 @@
+
+
+.cam_bys h1{
+	font-weight:900;
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:10px;
+	font-size:50px;
+}
+.campa_bys p{
+	text-align:center;
+	font-size:30px;
+	font-family:sans serif;
+	font-weight:40;
+	padding-bottom:0px;
+	margin-bottom:0px;
+	margin-top:0pm;
+
+	
+}
+.cam1st_bys{
+	margin:25px;
+	
+}
+.camimg_bys{
+	padding-top:40px;
+	padding-bottom:60px;
+	
+}
+.statcam_bys {
+	margin:10px;
+	padding-top:20px;
+	text-align:center;
+	font-size:24px;
+	
+}
+.camstu_bys h1{
+	font-weight:750;
+	text-align:center;
+	padding-top:40px;
+	padding-bottom:10px;
+	font-size:40px;
+	
+}
+.stutext_bys{
+	margin:25px;
+}
+.stutext2_bys h4{
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:22px;
+	font-weight:800;
+}
+.stutext2_bys p{
+	font-size:18px;
+	font-weight:400;
+}
+.stutext2_bys>a,li{
+	font-size:18px;
+	font-weight:500;
+	padding-top:5px;
+}
+.bottompiccam{
+	position:relative;
+   right:100px;
+   padding-top:60px;
+}
+
+.speak_bys{
+	margin-right:30px;
+	margin-left:30px;
+	margin-top:30px;
+	padding-top:40px;
+	padding-bottom:40px;
+}
+.imgcam2{
+	top:40px;
+	position:relative;
+	z-index:1;
+	
+}
+
+.camspeak_textbys{
+	height:300px;
+	padding:50px;
+	padding-left:100px;
+	box-shadow:box-shadow: 4px 4px 4px rgba(0, 100, 0, .4);
+}
+
+.camspeaktext h4{
+	font-weight:700;
+}
+.camspeaktext p{
+	font-size:16px;
+	font-weight:400;
+}
+
+.camspeaktext a{
+	font-size:16px;
+	font-weight:400;
+	padding-bottom:10px;
+}
+.credit_cam{
+	color:white;
+	padding-top:8px;
+	padding-right:8px;
+	padding-bottom:20px;
+}
+.art_bys h1{
+	font-weight:750;
+	text-align:text-center;
+	padding-top:40px;
+	padding-bottom:20px;
+	font-size:40px;
+}
+.art_bys a{
+
+	padding-bottom:20px;
+}
+.art_boys li{
+	padding-bottom:20px;
+}
+
+.campussafe_bys h1{
+	font-weight:750;
+	text-align:text-center;
+	padding-top:30px;
+	font-size:40px;
+}
+.safetext-bys{
+	
+	padding-bottom:20px;
+	padding-right:20px;
+	padding-left:20px;
+	
+}
+.safetextall_bys{
+	background:#f4f4f4;
+	padding:60px;
+	padding-right:80px;
+}
+.safetextall_bys>p{
+	font-size:18px;
+	font-weight:450;
+	color:black;
+}
+
+.credit_no2{
+	font-size:15px;
+	font-weight:500;
+	padding-bottom:20px;
+	text-align:right;
+	padding-left:500px;
+}
+.linkcm_bys{
+font-size:18px;
+font-weight:700;
+padding-bottom:0px;	
+}
+
+.img-nonebys{
+	margin-bottom:20px;
+}

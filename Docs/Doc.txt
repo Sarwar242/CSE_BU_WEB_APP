@@ -1,2 +1,60 @@
 django-admin startproject CSE_BU_WEB_APP
 python manage.py runserver
+_____________________________________________
+
+python -m pip install mysqlclient
+_____________________________________________
+
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'csebu',
+        'USER': 'root',
+        'PASSWORD': '',
+        'HOST': '127.0.0.1',
+        'PORT': '3306',
+        'OPTIONS': {
+            'init_command': "SET sql_mode='STRICT_TRANS_TABLES'",
+        },
+    }
+}
+
+_____________________________________________
+
+python manage.py migrate
+_____________________________________________
+
+STATIC_URL = '/static/'
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static')
+]
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'assets')
+
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+_____________________________________________
+
+python manage.py collectstatic
+_____________________________________________
+
+inhtml start with: {% load static %}
+href or src: {% static 'asset path' %}
+
+_____________________________________________
+
+img = models.ImageField(upload_to='pics')
+_____________________________________________
+
+python -m  pip install pillow
+_____________________________________________
+
+python manage.py startapp CSEBU
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________
+_____________________________________________

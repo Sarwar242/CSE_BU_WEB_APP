@@ -1,0 +1,101 @@
+.eventandnewsh {
+    font-family: Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: #B1040E;
+    margin-top: 100px;
+    font-size: 54px;
+}
+.eventandnewsh2 {
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 1px solid #ffb5b5cf;
+    padding-bottom: 42px;
+    margin-bottom: 0px;
+}
+.widthme{
+	padding-right:40px;
+	padding-left: 40px;
+}
+
+.divintent {
+    background: white;
+    border-top: 3px solid #B1040E;
+    margin: 20px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    box-shadow: 3px 3px 6px 2px rgba(0,0,0,.11);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.divintentimage{
+	background:linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)),url("../pranta/cover.jpg");
+	height:250px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	border-top-left-radius: 18px;
+}
+.divintentimage_inside h4 {
+	position: absolute;
+    font-size: 12px;
+    background: white;
+    margin-top: 8px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-right: 5px;
+    padding-left: 5px;
+    box-shadow: 3px 3px 3px 5px rgba(0,0,0,.11);
+    right: 44px;
+    border: 1px solid #B1040E;
+}
+.divintentimage_inside h3 {
+    position: absolute;
+    font-size: 20px;
+    padding-bottom: 0px;
+    top: 222px;
+    color: white;
+    padding-left: 7px;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+.starting {
+    padding: 5px;
+    padding-left: 7px;
+}
+.starting h4{
+	font-size:19px;
+	color:#B1040E;
+}
+.startingtext {
+    padding: 5px;
+    margin-top: 12px;
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-bottom: 13px;
+}
+.startingtext a{
+	color: black;
+	font-size: 17px;
+	font-family: sans-serif;
+    font-weight: bold;
+    color: #18572A;
+
+	text-decoration: none;
+	text-align: justify-all;
+}
+.startingtext a:hover{
+	color:#B1040E;
+	text-decoration: none;
+}
+.startingtext p{
+	text-align: justify;
+}
+.mid-ran {
+    min-height: 620px;
+    background: #fbfaee;
+    padding-top: 40px;
+}
+
+
+

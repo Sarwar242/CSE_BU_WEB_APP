@@ -1,0 +1,61 @@
+
+.font{
+	font-family: 'Roboto Condensed' ;
+}
+.logindiv {
+    width: 500px;
+    border: 0px;
+    padding:0px;
+    padding-bottom: 22px;
+    border-top:0px;
+    border-bottom:0px;
+    border-bottom: 30px solid #208039;
+    border-bottom-left-radius: 82px;
+    border-top: 30px solid #208039;
+    border-top-right-radius: 82px;
+    background-color: white;
+        box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.08);
+    }
+
+.edittable tr{}
+.edittable th {
+    font-size: 18px;
+    padding: 0px;
+    vertical-align: middle;
+    border: 0px;
+    margin: 0px;
+    width: 150px;
+}
+.edittable td{
+	vertical-align: middle;
+    border: 0px;
+}
+.header {
+    border: 0px;
+    margin: 0px;
+    background: #208039;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    border-top-right-radius: 82px;
+}
+.edittable {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.inputclass{
+	width:100%;
+}
+.usericon {
+    height: 70px;
+    width: 70px;
+    margin-bottom: 14px;
+}
+.error {
+    margin-top: 5px;
+    color: red;
+}
+.signup table td{
+    padding:0.35rem;
+}
