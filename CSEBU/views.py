@@ -20,6 +20,8 @@ def research(request):
 def campuslife(request):
     return render(request, "campuslife.html")
 
+def eventcalendar(request):
+    return render(request, "eventclndr.html")
 
 def login(request):
     return render(request, "login/login.html")
