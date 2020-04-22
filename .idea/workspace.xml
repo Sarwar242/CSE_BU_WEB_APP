@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b8f0977-7460-47a7-81e1-edf842cef0df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CSEBU/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Profiles/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentsApp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSEBU/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSEBU/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSEBU/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSEBU/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSEBU/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSEBU/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSEBU/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSEBU/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSE_BU_WEB_APP/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSE_BU_WEB_APP/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSE_BU_WEB_APP/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CSE_BU_WEB_APP/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docs/Doc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Docs/Doc.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layouts/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,27 +82,39 @@
       <option name="project" value="LOCAL" />
       <updated>1585850072262</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Working on Templates">
+      <created>1585892531926</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585892531926</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Index page live" />
     <MESSAGE value="Templates are linked with assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Templates are linked with assets" />
+    <MESSAGE value="Working on Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on Templates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585850070809">
+    <state x="442" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585931441307">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585850070809" />
+    <state x="442" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1585931441307" />
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1585892529130">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1585892529130" />
     <state x="186" y="29" key="SettingsEditor" timestamp="1585753253943">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1585753253943" />
-    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1585850074639">
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1585892539085">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1585850074639" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1585892539085" />
   </component>
 </project>

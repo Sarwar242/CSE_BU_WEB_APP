@@ -30,6 +30,8 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'CSEBU.apps.CsebuConfig',
+    'Profiles.apps.ProfilesConfig',
+    'StudentsApp.apps.StudentsappConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
